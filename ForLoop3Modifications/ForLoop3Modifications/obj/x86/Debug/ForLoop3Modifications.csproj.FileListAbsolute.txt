@@ -1,0 +1,5 @@
+/home/alex/Projects/ForLoop3Modifications/ForLoop3Modifications/bin/Debug/ForLoop3Modifications.exe
+/home/alex/Projects/ForLoop3Modifications/ForLoop3Modifications/bin/Debug/ForLoop3Modifications.pdb
+/home/alex/Projects/ForLoop3Modifications/ForLoop3Modifications/obj/x86/Debug/ForLoop3Modifications.csprojAssemblyReference.cache
+/home/alex/Projects/ForLoop3Modifications/ForLoop3Modifications/obj/x86/Debug/ForLoop3Modifications.exe
+/home/alex/Projects/ForLoop3Modifications/ForLoop3Modifications/obj/x86/Debug/ForLoop3Modifications.pdb
